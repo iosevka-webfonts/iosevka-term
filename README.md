@@ -1,4 +1,4 @@
-# Iosevka Term WebFont 23.0.0
+# Iosevka Term WebFont 24.0.0
 
 ## How to use
 
